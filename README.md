@@ -1,2 +1,2 @@
-# murphdasmurf.github.io
-A Jekyll site for static content.
+# cmd.run
+A blog about security.
